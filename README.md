@@ -4,6 +4,8 @@ This is little project that I developed in the eight section of Angela Yu's IOS 
 
 ## What I built
 
+This video has sound, then you can turn it on if you want to.
+
 https://user-images.githubusercontent.com/61299646/125551097-379b7546-434a-4d20-b30d-5e2d2fb17e70.mov
 
 ## What I learned
